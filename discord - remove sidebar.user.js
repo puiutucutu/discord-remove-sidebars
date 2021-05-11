@@ -2,8 +2,6 @@
 // @name         discord - remove sidebar
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  try to take over the world!
-// @author       You
 // @match        https://discord.com/channels/*/*
 // @grant        none
 // ==/UserScript==
